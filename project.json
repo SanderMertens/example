@@ -1,0 +1,9 @@
+{
+    "id": "example",
+    "type": "application",
+    "value": {
+        "author": "Sander Mertens",
+        "description": "Bake example project",
+        "use": ["example_package"]
+    }
+}
