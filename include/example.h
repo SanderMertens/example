@@ -2,7 +2,7 @@
 #define EXAMPLE_H
 
 /* This generated file contains includes for project dependencies */
-#include "bake_config.h"
+#include "example/bake_config.h"
 
 #ifdef __cplusplus
 extern "C" {
